@@ -1,0 +1,33 @@
+city,latitude,longitude,pop,country,iso2,iso3,province
+Fada Ngourma,12.05499605,0.360999451,33910,Burkina Faso,BF,BFA,Gourma
+Orodara,10.97399705,-4.907996452,18632,Burkina Faso,BF,BFA,Kenedougou
+Solenzo,12.1833333,-4.0833333,10385,Burkina Faso,BF,BFA,Banwa
+Nouna,12.7289971,-3.860000519,29048,Burkina Faso,BF,BFA,Kossi
+Dedougou,12.455001,-3.464000439,45341,Burkina Faso,BF,BFA,Mouhoun
+Gorom Gorom,14.45000398,-0.233297546,6691,Burkina Faso,BF,BFA,Oudalan
+Djibo,14.09900404,-1.627001421,22223,Burkina Faso,BF,BFA,Soum
+Tougan,13.06899899,-3.069998409,17590,Burkina Faso,BF,BFA,Sourou
+Kombissiri,12.06399605,-1.333997543,30137,Burkina Faso,BF,BFA,Bazega
+Ziniare,12.57699605,-1.293002442,12703,Burkina Faso,BF,BFA,Oubritenga
+Yako,12.95399712,-2.262995501,22904,Burkina Faso,BF,BFA,Passore
+Reo,12.33349214,-2.466944513,37535,Burkina Faso,BF,BFA,Sanguie
+Leo,11.09400299,-2.097998529,26884,Burkina Faso,BF,BFA,Sissili
+Sapouy,11.5544444,-1.7736111,3837,Burkina Faso,BF,BFA,Ziro
+Boulsa,12.65699714,-0.568997532,17489,Burkina Faso,BF,BFA,Namentenga
+Zorgo,12.24299707,-0.611000429,23892,Burkina Faso,BF,BFA,Ganzourgou
+Koupela,12.17700004,-0.356003514,32052,Burkina Faso,BF,BFA,Kouritenga
+Po,11.16900002,-1.134998478,17924,Burkina Faso,BF,BFA,Nahouri
+Manga,11.66200198,-1.064996408,15173,Burkina Faso,BF,BFA,Zoundweogo
+Diebougou,10.95200113,-3.248000411,12732,Burkina Faso,BF,BFA,Bougouriba
+Gaoua,10.32499811,-3.174002407,28023,Burkina Faso,BF,BFA,Poni
+Bogande,12.96900003,-0.1379965,9854,Burkina Faso,BF,BFA,Gnagna
+Dori,14.0339971,-0.027998519,37806,Burkina Faso,BF,BFA,Seno
+Sebba,13.4364122,0.530443,3273,Burkina Faso,BF,BFA,Yagha
+Diapaga,12.07700108,1.796004571,26013,Burkina Faso,BF,BFA,Tapoa
+Koudougou,12.25047833,-2.369995159,85339,Burkina Faso,BF,BFA,Boulkiemde
+Ouahigouya,13.5704236,-2.419992108,70300,Burkina Faso,BF,BFA,Yatenga
+Kaya,13.09037539,-1.090047446,39623,Burkina Faso,BF,BFA,Sanmatenga
+Tenkodogo,11.78040367,-0.369703818,37883,Burkina Faso,BF,BFA,Boulgou
+Banfora,10.63044802,-4.760004315,45903.5,Burkina Faso,BF,BFA,Comoe
+Bobo Dioulasso,11.1799752,-4.289981325,346035,Burkina Faso,BF,BFA,Houet
+Ouagadougou,12.37031598,-1.524723756,992228.5,Burkina Faso,BF,BFA,Kadiogo
